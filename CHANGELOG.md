@@ -18,6 +18,7 @@
 ### Added
 
 - Add new configuration option, `doc_comment_code_block_width`, which allows for setting a shorter width limit to use for formatting code snippets in doc comments [#5384](https://github.com/rust-lang/rustfmt/issues/5384)
+- Supported custom wildcarded groups for [group_imports](https://rust-lang.github.io/rustfmt/?version=v1.4.38&search=#group_imports).
 
 ### Install/Download Options
 - **rustup (nightly)** - nightly-2022-06-24
